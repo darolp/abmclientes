@@ -1,0 +1,17 @@
+img{
+    max-width: 70px !important;
+    max-height: 70px !important;
+}
+.fa-edit:hover{
+    color: #b8b500 !important;
+}
+.borrar:hover{
+    color: red !important;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+    background: #F8F9FC;
+}
+label{
+    color: grey;
+}
